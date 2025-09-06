@@ -24,7 +24,7 @@ Insights & Findings
 -The average price of a BMW is fairly stable at around USD 74,000–75,500, with little fluctuation.
 -BMW's global sales volume is likely to remain stable throughout the 2010–2024 period.
 -The best-selling models are dominated by the X6, X5, X3, M5, 5 Series, i3, 3 Series, X1, i8, and 7 Series.
--
+
 
 Conclusion & Recommendations
 Conclusion
