@@ -20,10 +20,16 @@ Analysis Process
 -Reporting → Summarized results into insights and recommendations.
 
 Insights & Findings
--The Low category dominates the amount of data compared to the High category.
--The average price of a BMW is fairly stable at around USD 74,000–75,500, with little fluctuation.
--BMW's global sales volume is likely to remain stable throughout the 2010–2024 period.
--The best-selling models are dominated by the X6, X5, X3, M5, 5 Series, i3, 3 Series, X1, i8, and 7 Series.
+
+*[Sales Classification] Majority of BMW models fall under the Low Sales category, with only a few models achieving High Sales.
+
+*[Average Pricing] The average price of a BMW is fairly stable at around USD 74,000–75,500, with little fluctuation.
+
+*[Sales Volume Trends] BMW's global sales volume is likely to remain stable throughout the 2010–2024 period.
+
+*[Model Performance] The best-selling models are dominated by the X6, X5, X3, M5, 5 Series, i3, 3 Series, X1, i8 Series.
+
+*[Regional Distribution] Asia and Europe are the largest contributors to BMW sales and North America shows strong SUV and EV adoption potential.
 
 
 Conclusion & Recommendations
@@ -46,6 +52,8 @@ Leverage Digital & Supply Chain Resilience – Invest in online sales channels a
 Ai Support Explanation
 AI Support Explanation This project used IBM Granite 3.3 8B Instruct (via Replicate + LangChain) to:
 
-Summarize analysis results into insights.
-Generate logical findings from correlation and descriptive statistics.
-Provide data-driven recommendations for student stress management.
+-summarize analysis results into insights
+
+-generate logical findings from correlation and chart 
+
+-provide data-driven recommendations for BMW sales dataset.
